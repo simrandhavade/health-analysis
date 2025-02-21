@@ -1,4 +1,4 @@
-# Health & Lifestyle Insights Dashboard - README
+# Health & Lifestyle Insights Dashboard 
 
 ## Overview
 This is an **interactive dashboard** that provides a comprehensive analysis of key health metrics, including sleep, exercise, cholesterol levels, and their impact on overall well-being. Users can explore dynamic visualizations, filter data, and analyze trends to gain deeper insights into lifestyle choices and health indicators.
